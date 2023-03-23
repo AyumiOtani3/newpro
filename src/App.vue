@@ -1,6 +1,7 @@
 <template>
   <div id="app">
-    <HelloWorld msg="2つ目のブランチ"/>
+    <!-- <HelloWorld msg="Welcome to my Jspreadsheet Demo"/> -->
+    <HelloWorld />
   </div>
 </template>
 
@@ -21,7 +22,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: pink;
+  color: brown;
   margin-top: 60px;
 }
 </style>
